@@ -1,7 +1,5 @@
 # slidev-theme-webhh
 
-[![NPM version](https://img.shields.io/npm/v/slidev-theme-webhh?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-webhh)
-
 A starter theme for [Slidev](https://github.com/slidevjs/slidev) powered presentations at Web HH MeetUps.
 
 - [React HH](https://www.meetup.com/de-DE/Hamburg-React-js-Meetup/)
