@@ -9,6 +9,8 @@ A starter theme for [Slidev](https://github.com/slidevjs/slidev) powered present
 
 Join our [Web HH Discord](https://discord.gg/2nAc69Hdc8).
 
+Theme Demo: [slidev-theme-webhh.vercel.app](https://slidev-theme-webhh.vercel.app/1)
+
 ## Install
 
 Add the following frontmatter to your `slides.md`. Start Slidev then it will prompt you to install the theme automatically.
@@ -23,7 +25,7 @@ Learn more about [how to use a theme](https://sli.dev/themes/use).
 
 - Markdown based presentations
 - Code highlighting and walk-throughs
-- No need to worry about design
+- Dark Mode
 
 ## Layouts
 
