@@ -4,20 +4,10 @@
 
 A starter theme for [Slidev](https://github.com/slidevjs/slidev) powered presentations at Web HH MeetUps.
 
-<!--
-  Learn more about how to write a theme:
-  https://sli.dev/themes/write-a-theme.html
---->
+- [React HH](https://www.meetup.com/de-DE/Hamburg-React-js-Meetup/)
+- [TypeScript HH](https://www.meetup.com/de-DE/Hamburg-TypeScript-Meetup-Group/)
 
-<!--
-  run `npm run dev` to check out the slides for more details of how to start writing a theme
--->
-
-<!--
-  Put some screenshots here to demonstrate your theme
-
-  Live demo: [...]
--->
+Join our [Web HH Discord](https://discord.gg/2nAc69Hdc8).
 
 ## Install
 
@@ -72,6 +62,10 @@ This theme provides some addition Components.
 ![Additional Components](/assets/components.png)
 
 ## Contributing
+
+Missing a component? Created something great for your talk and want to give back to the community?
+
+Contribute to this repo 😊
 
 - `npm install`
 - `npm run dev` to start theme preview of `example.md`
