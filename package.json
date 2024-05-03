@@ -23,7 +23,8 @@
     "qrcode.vue": "^3.4.1"
   },
   "devDependencies": {
-    "@slidev/cli": "^0.49.0-beta.4"
+    "@slidev/cli": "^0.49.0-beta.4",
+    "playwright-chromium": "^1.43.1"
   },
   "slidev": {
     "colorSchema": "both",

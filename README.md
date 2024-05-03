@@ -37,19 +37,39 @@ Learn more about [how to use a theme](https://sli.dev/themes/use).
 
 ## Layouts
 
-This theme provides the following layouts:
+This theme provides the following layouts.
 
-> TODO:
-> - Title slide
-> - Speaker
-> - Website - iFrame embed with styling
+### `title`
+
+Title page to open your talk with.
+
+![Title Layout](/assets/layouts/title.png)
+
+### `speaker`
+
+Tell us about yourself with a picture and some bullets.
+
+![Speaker Layout](/assets/layouts/speaker.png)
+
+### `browser`
+
+Showcase a website.
+
+![Browser Layout](/assets/layouts/browser.png)
 
 ## Components
 
-This theme provides the following components:
+This theme provides some addition Components.
 
-> TODO:
-> - Emoji for Noto Emojis
+```tsx
+<Emoji>✨</Emoji>
+```
+
+```tsx
+<QRCode url="https://www.meetup.com/de-DE/Hamburg-React-js-Meetup/" size="200"/>
+```
+
+![Additional Components](/assets/components.png)
 
 ## Contributing
 
